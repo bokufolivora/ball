@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ball</string>
+    <string name="start">START</string>
+    <string name="stop">STOP</string>
+    <string name="restart">RESTART</string>
+    <string name="title">BLOCK BREAKING</string>
+    <string name="normal">NORMAL</string>
+    <string name="ready">READY</string>
+</resources>
